@@ -15,7 +15,7 @@ class CobaController extends Controller
     public function index()
     {
         
-        $data = DB::table('AA')->get();
+        $data = DB::table('OK')->get();
         dump($data);
     }
 
