@@ -12,7 +12,7 @@
 				<div class="d-flex"></div>
 			</div>
 			<div class="col col-auto">
-				<a class="btn btn-success mt-4 mt-sm-0" href="#"><i class="fe fe-plus mr-1 mt-1"></i> Add New</a>
+				<a class="btn btn-success mt-4 mt-sm-0" href="#"><i class="fe fe-plus mr-1 mt-1"></i> Tambah</a>
 			</div>
 		</div>
 	</div>
